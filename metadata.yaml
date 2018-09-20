@@ -1,0 +1,32 @@
+_repo: Lessons-in-the-Small-Catechism-of-Dr-Martin-Luther-For-the-Senior-Department-of-Lutheran-Sund__53465
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+  - agent_name: Mezger, George
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '47389'
+    url: http://www.gutenberg.org/2009/agents/47389
+description: ''
+gutenberg_issued: '2016-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Lutheran Church -- Catechisms'
+- GITenberg
+title: 'Lessons in the Small Catechism of Dr. Martin Luther
+
+  For the Senior Department of Lutheran Sunday-Schools and for General Use'
+url: http://www.gutenberg.org/ebooks/53465
